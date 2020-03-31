@@ -403,7 +403,7 @@
                 "name": "Constant Numeric",
                 "scope": ["constant.numeric"],
                 "settings": {
-                        "foreground": "#deb974"
+                        "foreground": "#a0c980"
                 }
         }, {
                 "name": "Constant Other Color",

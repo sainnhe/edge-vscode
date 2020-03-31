@@ -6,7 +6,7 @@
 𝐄𝐝𝐠𝐞 𝐃𝐚𝐫𝐤
 </h2>
 
-![edge-dark](https://user-images.githubusercontent.com/37491630/77987182-aa297e00-7308-11ea-9286-91bbb78e4171.png)
+![edge-dark](https://user-images.githubusercontent.com/37491630/78005766-90e5f900-732b-11ea-80c9-a3906fbe8169.png)
 
 <h2 align="center">
 𝐄𝐝𝐠𝐞 𝐃𝐚𝐫𝐤 (𝐀𝐮𝐫𝐚)
