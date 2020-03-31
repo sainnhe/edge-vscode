@@ -1,0 +1,39 @@
+{
+    "name": "edge",
+    "displayName": "Edge",
+    "description": "Clean & Elegant Color Scheme inspired by Atom One and Material",
+    "version": "0.1.0",
+    "publisher": "sainnhe",
+    "author": "sainnhe (https://github.com/sainnhe)",
+    "homepage": "https://github.com/sainnhe/edge-vscode",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/sainnhe/edge-vscode.git"
+    },
+    "bugs": {
+        "url": "https://github.com/sainnhe/edge-vscode/issues"
+    },
+    "license": "MIT",
+    "keywords": [
+        "one",
+        "material",
+        "theme"
+    ],
+    "galleryBanner": {
+        "color": "#2c2e34",
+        "theme": "dark"
+    },
+    "engines": {
+        "vscode": "^1.43.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [{
+            "label": "Edge",
+            "uiTheme": "vs-dark",
+            "path": "./themes/edge-dark.json"
+        }]
+    }
+}
