@@ -35,6 +35,14 @@
             "uiTheme": "vs-dark",
             "path": "./themes/edge-dark.json"
         }, {
+            "label": "Edge Dark (Aura)",
+            "uiTheme": "vs-dark",
+            "path": "./themes/aura-dark.json"
+        }, {
+            "label": "Edge Dark (Neon)",
+            "uiTheme": "vs-dark",
+            "path": "./themes/neon-dark.json"
+        }, {
             "label": "Edge Light",
             "uiTheme": "vs",
             "path": "./themes/edge-light.json"
