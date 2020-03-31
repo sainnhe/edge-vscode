@@ -31,9 +31,13 @@
     ],
     "contributes": {
         "themes": [{
-            "label": "Edge",
+            "label": "Edge Dark",
             "uiTheme": "vs-dark",
             "path": "./themes/edge-dark.json"
+        }, {
+            "label": "Edge Light",
+            "uiTheme": "vs",
+            "path": "./themes/edge-light.json"
         }]
     }
 }
