@@ -2,7 +2,7 @@
     "name": "edge",
     "displayName": "Edge",
     "description": "Clean & Elegant Color Scheme inspired by Atom One and Material",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "publisher": "sainnhe",
     "author": "sainnhe (https://github.com/sainnhe)",
     "homepage": "https://github.com/sainnhe/edge-vscode",
@@ -30,22 +30,27 @@
         "Themes"
     ],
     "contributes": {
-        "themes": [{
-            "label": "Edge Dark",
-            "uiTheme": "vs-dark",
-            "path": "./themes/edge-dark.json"
-        }, {
-            "label": "Edge Dark (Aura)",
-            "uiTheme": "vs-dark",
-            "path": "./themes/aura-dark.json"
-        }, {
-            "label": "Edge Dark (Neon)",
-            "uiTheme": "vs-dark",
-            "path": "./themes/neon-dark.json"
-        }, {
-            "label": "Edge Light",
-            "uiTheme": "vs",
-            "path": "./themes/edge-light.json"
-        }]
+        "themes": [
+            {
+                "label": "Edge Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/edge-dark.json"
+            },
+            {
+                "label": "Edge Dark (Aura)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/aura-dark.json"
+            },
+            {
+                "label": "Edge Dark (Neon)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/neon-dark.json"
+            },
+            {
+                "label": "Edge Light",
+                "uiTheme": "vs",
+                "path": "./themes/edge-light.json"
+            }
+        ]
     }
 }
