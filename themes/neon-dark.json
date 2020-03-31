@@ -328,6 +328,12 @@
                         "foreground": "#deb974"
                 }
         }, {
+                "name": "Built-in Type",
+                "scope": ["storage.type.built-in"],
+                "settings": {
+                        "foreground": "#deb974"
+                }
+        }, {
                 "name": "Entity Other Inherited Class",
                 "scope": ["entity.other.inherited-class"],
                 "settings": {
@@ -361,7 +367,7 @@
                 "name": "Keyword Other Unit",
                 "scope": ["keyword.other.unit"],
                 "settings": {
-                        "foreground": "#deb974"
+                        "foreground": "#a0c980"
                 }
         }, {
                 "name": "Storage",
@@ -385,13 +391,13 @@
                 "name": "Constant",
                 "scope": ["constant"],
                 "settings": {
-                        "foreground": "#deb974"
+                        "foreground": "#a0c980"
                 }
         }, {
                 "name": "Constant Variable",
                 "scope": ["constant.variable"],
                 "settings": {
-                        "foreground": "#deb974"
+                        "foreground": "#a0c980"
                 }
         }, {
                 "name": "Constant Character Escape",
@@ -596,7 +602,7 @@
                 "name": "Meta Link",
                 "scope": ["meta.link"],
                 "settings": {
-                        "foreground": "#deb974"
+                        "foreground": "#a0c980"
                 }
         }, {
                 "name": "Meta Require",
@@ -1013,7 +1019,7 @@
                 "name": "[VSCODE-CUSTOM] Support Constant",
                 "scope": "support.constant",
                 "settings": {
-                        "foreground": "#deb974"
+                        "foreground": "#a0c980"
                 }
         }, {
                 "name": "[VSCODE-CUSTOM] JSON Property Name",
@@ -1576,7 +1582,7 @@
                 }
         }, {
                 "name": "italics",
-                "scope": ["entity.other.inherited-class", "entity.other.attribute-name", "entity.other.attribute-name.pseudo-class.css", "entity.other.pseudo-class.css", "entity.other.pseudo-element.css", "markup.italic", "markup.quote", "source.sass variable.other", "source.sass variable.sass", "source.scss variable.other", "source.scss variable.scss", "source.scss variable.sass", "source.css variable.other", "source.css variable.scss", "source.less variable.other", "source.less variable.other.less", "source.less variable.declaration.less", "support.type", "entity.name.type.object.console", "variable.language", "variable.parameter.function.language.special.self.python", "variable.parameter.function.language.special.cls.python", "keyword.control.import.python", "keyword.control.flow.python", "constant.language"],
+                "scope": ["entity.other.attribute-name", "entity.other.attribute-name.pseudo-class.css", "entity.other.pseudo-class.css", "entity.other.pseudo-element.css", "markup.italic", "markup.quote", "source.sass variable.other", "source.sass variable.sass", "source.scss variable.other", "source.scss variable.scss", "source.scss variable.sass", "source.css variable.other", "source.css variable.scss", "source.less variable.other", "source.less variable.other.less", "source.less variable.declaration.less", "support.type", "entity.name.type.object.console", "variable.language", "variable.parameter.function.language.special.self.python", "variable.parameter.function.language.special.cls.python", "constant.language", "support.type", "storage.type.built-in"],
                 "settings": {
                         "fontStyle": "italic"
                 }

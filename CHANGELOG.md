@@ -4,6 +4,11 @@ All notable changes to the "edge" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## 0.1.2
+
+- Use green in constant.
+- Use yellow in built-in type.
+
 ## 0.1.1
 
 - Use green in numeric.
