@@ -75,9 +75,9 @@ ext install sainnhe.edge
 
 ## Related Projects
 
-See [sainnhe/edge](https://github.com/sainnhe/edge#related-projects) for other ports.
+See this [wiki page](https://github.com/sainnhe/edge/wiki/Related-Projects)
 
-### More Color Schemes
+## More Color Schemes
 
 - [Gruvbox Material](https://marketplace.visualstudio.com/items?itemName=sainnhe.gruvbox-material)
 - [Forest Night](https://marketplace.visualstudio.com/items?itemName=sainnhe.forest-night)
