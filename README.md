@@ -75,7 +75,7 @@ ext install sainnhe.edge
 
 ## Related Projects
 
-See this [wiki page](https://github.com/sainnhe/edge/wiki/Related-Projects)
+See this [wiki page](https://github.com/sainnhe/edge/wiki/Related-Projects).
 
 ## More Color Schemes
 
