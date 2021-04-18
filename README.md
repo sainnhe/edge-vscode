@@ -79,9 +79,9 @@ See this [wiki page](https://github.com/sainnhe/edge/wiki/Related-Projects).
 
 ## More Color Schemes
 
-- [Gruvbox Material](https://marketplace.visualstudio.com/items?itemName=sainnhe.gruvbox-material)
-- [Forest Night](https://marketplace.visualstudio.com/items?itemName=sainnhe.forest-night)
-- [Sonokai](https://marketplace.visualstudio.com/items?itemName=sainnhe.sonokai)
+- [Gruvbox Material](https://github.com/sainnhe/gruvbox-material-vscode)
+- [Everforest](https://github.com/sainnhe/everforest-vscode)
+- [Edge](https://github.com/sainnhe/edge-vscode)
 
 ## Inspiration
 
