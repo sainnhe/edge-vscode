@@ -81,7 +81,7 @@ See this [wiki page](https://github.com/sainnhe/edge/wiki/Related-Projects).
 
 - [Gruvbox Material](https://github.com/sainnhe/gruvbox-material-vscode)
 - [Everforest](https://github.com/sainnhe/everforest-vscode)
-- [Edge](https://github.com/sainnhe/edge-vscode)
+- [Sonokai](https://github.com/sainnhe/sonokai-vscode)
 
 ## Inspiration
 
