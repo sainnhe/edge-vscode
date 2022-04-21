@@ -71,7 +71,7 @@ ext install sainnhe.edge
 
 **Q: How to enable cursive italic keywords?**
 
-**A:** The italics in this color scheme is designed to use with fonts that support cursive italic styles. To enable this feature, you'll need to install a font that supports cursive italic styles, for example: [InconsolataLGC iCursive Op](https://github.com/sainnhe/icursive-nerd-font)(this is the font used in the screenshots).
+**A:** The italics in this color scheme is designed to use with fonts that support cursive italic styles. To enable this feature, you'll need to install a font that supports cursive italic styles, for example: https://www.sainnhe.dev/post/patch-fonts-with-cursive-italic-styles/
 
 ## Related Projects
 
